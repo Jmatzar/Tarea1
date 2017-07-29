@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head> 
+	<title>
+INFORMACION
+	</title>
+
+<style>
+body{
+	background-image:url(fondo.jpg);
+	background-size: 100% 100%;
+	background-attachment:fixed;
+	
+}
+</style>
+</head>	
+<body >
+
+ <FONT COLOR="GRAY">
+<h1 align="center" >Món d'armes</h1>
+
+ 
+
+<p align="center">
+La empresa Món d'armes nos especializamos en la fabricación de armas chinas tradicionales y asi mismo como su distribucion en todas 
+partes del mundo, los materiales utilizados en las armas son de la mas alta calidad, para las partes metalicas utilizamos acero inoxidable.
+y para las partes de madera utilizamos madera flexible china tradicional la cual es importada de la parte sur de China. 
+</p>
+
+
+<h4 align="center">Actividades</h4>
+<p align="center">
+Aparte de la fabricación y distribucion de armas, tambien nos dedicamos a impartir seminarios sobre utilizacion de armas tradicionales como 
+arte  <i>"sin fomentar la violencia"</i>, también ayudamos a fomentar el deporte realizando torneos de kung fu wushu y kung fu tradicional 
+tanto en formas de mano vacia, como en formas con armas; Ademas de eso a los participantes mas dedicados obtienen la oportunidad de entrar 
+a nuestro programa de becas deportivas. 
+</p>
+
+
+
+
+<h4 align="center"> Academias</h4>
+<p align="center">
+Ademas de lo anterior mencionado estamos relacionados con la <b>ACADEMIA SHAOLIN CHUAN</b> la cual imparte imparte Kung Fu Shaolin del Norte 
+tradicional la cual posee instalaciones en Guatemla y Suecia.
+</p>
+
+
+<h4 align="center">Nuevas Instalacions</h4>
+<p align="center">
+En nuestro proyecto a corto plazo se tiene como objetivo fundar 3 academias mas de Kung fu las cuales se encontrarán en
+<li align="center">Madrid-España</li>
+<li align="center">Barcelona-España</li>
+<li align="center">Roma-Italia</li>
+</p>
+
+ </FONT>
+ 
+<EMBED SRC= "MUSICA.MP3" AUTOSTART="True" LOOP= infinite Volume= "50" WIDTH="0" HEIGHT="1">
+ </body>
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Armas Tradicionales Chinas</title>
+		<style type="text/css">
+			
+			* {
+				margin:0px;
+				padding:0px;
+			}
+			
+			#header {
+				margin:auto;
+				width:5000px;
+				font-family:Arial, Helvetica, sans-serif;
+			}
+			
+			ul, ol {
+				list-style:none;
+			}
+			
+			.nav > li {
+				float:left;
+			}
+			
+			.nav li a {
+				background-color:#000;
+				color:#fff;
+				text-decoration:none;
+				padding:40px 135px;
+				display:block;
+			}
+			
+			.nav li a:hover {
+				background-color:#434343;
+			}
+			
+			.nav li ul {
+				display:none;
+				position:absolute;
+				min-width:10px;
+			}
+			
+			.nav li:hover > ul {
+				display:block;
+			}
+			
+			.nav li ul li {
+				position:relative;
+			}
+			
+			.nav li ul li ul {
+				right:-140px;
+				top:0px;
+			}
+			
+			
+body{
+	background-image:url(F11.jpg);
+	background-size: 100% 100%;
+	background-attachment:fixed;
+	
+}
+
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<ul class="nav">
+				<li><a href="Home">Home</a></li>
+				<li><a href="About">About</a></li>
+				
+				<li><a href="Secc">Seccion de Informacion</a></li>
+				
+				<li><a href="">Nosotros</a>
+				
+				<ul>
+						<li><a href="Mision">Misión</a></li>
+						<li><a href="Vision">Visión</a></li>
+						
+					</ul>
+					</li>
+			</ul>
+		</div>
+		
+
+		
+	</body>
+</html>

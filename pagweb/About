@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About</title>
+	</head>
+	
+<body >
+<h1 align="center">Datos Generles </h1>
+<TABLE align="center" BORDER="5"> 
+	<TR>
+    	<TH>
+	Datos Personales
+	</TH>
+    
+    	
+	</TR>
+	<TR>
+    	<TD>
+	Nombre
+	</TD>
+    	<TD>
+	Julio Mizraim Matzar Velasquez
+	</TD>
+	
+	</TD>
+	</TR>
+	
+	<TR>
+    	<TD>
+	Carne: 
+	</TD>
+    	<TD>
+	201408426
+	</TD>    	
+	</TR>
+	
+	<TR>
+    	<TD>
+	DNI:
+	</TD>
+    	<TD>
+	296499587-A
+	</TD>   	
+	</TR>
+	
+	<TR>
+    	<TD>
+	Edad:
+	</TD>
+    	<TD>
+	21 años
+	</TD>   	
+	</TR>
+	
+	<TR>
+    	<TD>
+	Movíl:
+	</TD>
+    	<TD>
+	+34 348 363 428
+	</TD>	
+	</TR>
+	
+	<TR>
+    	<TD>
+	Ocupación:
+	</TD>
+    	<TD>
+	Estudiante
+	</TD>
+	</TR>
+	
+	<TR>
+    	<TD>
+	Email:
+	</TD>
+    	<TD>
+	jmtzarv@gmail.com
+	</TD>	
+	</TR>
+	
+	<TR>
+    	<TD>
+	Dirección:
+	</TD>
+    	<TD>
+	Plaza Puerta del sol, calle de Carreteras
+	15-23 Madrid 
+	</TD>   	
+	</TR>
+	
+        </TABLE>
+	
+</body>
+</html>
